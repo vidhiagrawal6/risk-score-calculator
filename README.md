@@ -48,8 +48,8 @@ Maximum Risk Score = 100
 | Score Range | Risk Level |
 |-------------|------------|
 | 0 - 30 | Low |
-| 31 - 70 | Medium |
-| 71 - 100 | High |
+| 31 - 80 | Medium |
+| 81 - 100 | High |
 
 ---
 
